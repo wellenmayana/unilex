@@ -1,0 +1,68 @@
+
+       #button1{
+  
+        font-family: Comic Sans MS, Comic Sans, cursive;
+          background:black;
+           color: yellow;
+        border-style: solid;
+        border-color: yellow;
+        height: 50px;
+        width: 475px;
+        font: bold15px arial,sans-serif;
+        text-shadow: none;
+        }
+        #button2 {
+          font-family: Comic Sans MS, Comic Sans, cursive;
+                  background:black;
+                 color: yellow;
+                  border-style: outset;
+                  border-color: yellow;
+                  height: 50px;
+                  width: 473px;
+                  font: bold15px arial,sans-serif;
+                  text-shadow: none;}
+        #button3 {margin-right: 2px;
+                  background:black;
+                 color: yellow;
+                
+                 font-family: Comic Sans MS, Comic Sans, cursive;
+                  border-color: yellow;
+                  height: 50px;
+                  width: 472px;
+                  font: bold15px arial,sans-serif;
+                  text-shadow: none;}
+        #button4 {position: absolute;
+        
+        font-family: Comic Sans MS, Comic Sans, cursive;
+          background:black;
+                 color: yellow;
+                border-style: outset;
+                border-color: yellow;
+                height: 50px;
+                width: 472px;
+                font: bold15px arial,sans-serif;}
+      
+                
+                .Imagem{
+                  
+                      width: 300px;
+                      height: 300px;
+                      margin: 10px 0 0 90px;
+                      position: sticky;
+                      top: 50px;
+                      left:0;
+                    }
+                
+                  p{
+                      text-align: right;
+                  }
+                  h1{
+                    text-align: center;
+                  }
+                     
+    
+      ul{
+        text-align: center;
+        font-family: Comic Sans MS, Comic Sans, cursive;
+      }
+      
